@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/YonasTekle/MyFTest2#readme",
   "devDependencies": {
-    "jest": "^27.5.0"
+    "jest": "^27.5.1"
   }
 }
